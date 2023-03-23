@@ -1,0 +1,28 @@
+h1{
+	position:relative;
+	left:200px;
+}
+
+p{
+	position:relative;
+	left:200px;
+	line-height:25px;
+}
+select{
+	width:200px;
+}
+
+label{
+	position:absolute;
+	left:-210px;
+	width:200px;
+	text-align:right;
+}
+input{
+	position:relative;
+}
+
+textarea{
+	resize:none;
+	width:200px;
+}
