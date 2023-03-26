@@ -1,5 +1,5 @@
 fieldset {
-	width:100%;
+	width:auto;
 }
 
 legend {
@@ -30,8 +30,9 @@ legend {
 
 }
 #box3{
-	width:50%;
+	width:45%;
 	float:left;
+	padding-left: 10px;
 
 }
 
@@ -43,8 +44,7 @@ legend {
 }
 
 .inside-box {
-	font-weight: bold;
-	
+	font-weight: bold;	
 
 }
 
